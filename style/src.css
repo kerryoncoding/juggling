@@ -18,15 +18,27 @@ h1 {
     font-size: 38px;
 }
 
+h1 strong  {
+    color: rgba(255, 0, 0, 0.719) !important;
+}
+
 h2 {
     text-align: center;
     color: #4A403A;
     font-weight: lighter;
 }
 
-h4 {
+h3 {
     text-align: center;
     color: #4A403A;
+}
+
+.top {
+    text-align: center;
+}
+.top-video {
+    border: 2px solid #fe5000;
+    border-radius: 10px;
 }
 
 img {
