@@ -33,13 +33,16 @@ h3 {
     color: #4A403A;
 }
 
-.top {
+.center {
     text-align: center;
 }
+
+/*
 .top-video {
     border: 2px solid #fe5000;
     border-radius: 10px;
 }
+*/
 
 img {
     border: 2px solid #fe5000;
@@ -91,6 +94,11 @@ button:hover {
 }
 
 .props {
+    font-size: 20px;
     color: #fe5000;
     font-weight: bold;
+}
+
+.props:hover {
+    text-decoration: underline;
 }
